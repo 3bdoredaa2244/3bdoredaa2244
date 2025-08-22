@@ -16,7 +16,7 @@ Experienced Web3 Full-stack Engineer with a strong foundation in blockchain tech
 ## 💼 Professional Experience  
 
 ### 🏗️ Web3 & Blockchain Developer – [Bridge.fi](https://github.com/3bdoredaa2244/Bridge.fi)  
-📍 New Cairo, Egypt | 🗓️ Feb 2025 – June 2025  
+📍 New Cairo, Egypt | 🗓️ Feb 2025 – Present 2025  
 - Developed decentralized applications on ICP using **Rust CDK** and **DFX**  
 - Engineered scalable, asynchronous **canister smart contracts**  
 - Designed Web3-first systems with cross-chain integrations (Ethereum, Solana)  
